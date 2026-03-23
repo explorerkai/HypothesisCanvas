@@ -1,0 +1,22 @@
+{
+  "name": "hypothesis-canvas",
+  "version": "1.0.0",
+  "description": "Web-based hypothesis canvas application for team collaboration",
+  "main": "index.js",
+  "scripts": {
+    "install:all": "npm run install:frontend && npm run install:backend",
+    "install:frontend": "cd frontend && npm install",
+    "install:backend": "cd backend && npm install",
+    "start": "concurrently \"npm run start:backend\" \"npm run start:frontend\"",
+    "start:backend": "cd backend && npm start",
+    "start:frontend": "cd frontend && npm start",
+    "build": "cd frontend && npm run build",
+    "test": "cd frontend && npm test"
+  },
+  "devDependencies": {
+    "concurrently": "^7.6.0"
+  },
+  "keywords": ["hypothesis-canvas", "collaboration", "react", "nodejs"],
+  "author": "",
+  "license": "MIT"
+}

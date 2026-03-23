@@ -1,0 +1,36 @@
+/* Additional styles for the Canvas component */
+
+.canvas-item textarea {
+  background: transparent;
+}
+
+.canvas-item textarea:focus {
+  background: rgba(0, 123, 255, 0.05);
+}
+
+.canvas-item.empty .canvas-item-content {
+  color: #999;
+  font-style: italic;
+}
+
+.canvas-item.filled .canvas-item-content {
+  color: #333;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+  .canvas-grid {
+    grid-template-columns: 1fr;
+    gap: 15px;
+  }
+
+  .controls {
+    flex-direction: column;
+  }
+
+  .btn {
+    width: 100%;
+    margin-bottom: 5px;
+  }
+}</content>
+<parameter name="filePath">c:\Users\tksna\OneDrive\ドキュメント\04_Codex\06_HypothesisCanvas\frontend\src\App.css
