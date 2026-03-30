@@ -36,6 +36,7 @@ function Canvas({ canvas, userName, onBack }) {
         clearInterval(syncIntervalRef.current);
       }
     };
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [canvas.id]);
 
   const loadCanvasData = async () => {
@@ -124,7 +125,7 @@ function Canvas({ canvas, userName, onBack }) {
   const handleDragEnd = (result) => {
     if (!result.destination) return;
 
-    const { source, destination, draggableId } = result;
+    const { source, destination } = result;
 
     if (source.droppableId === destination.droppableId) {
       // Reordering within the same list
