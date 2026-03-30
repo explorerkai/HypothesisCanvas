@@ -14,5 +14,4 @@ const api = {
   getActiveUsers: (canvasId) => axios.get(`${API_BASE_URL}/sessions/${canvasId}`)
 };
 
-export default api;</content>
-<parameter name="filePath">c:\Users\tksna\OneDrive\ドキュメント\04_Codex\06_HypothesisCanvas\frontend\src\services\api.js
+export default api;

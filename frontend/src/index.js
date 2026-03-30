@@ -8,5 +8,4 @@ root.render(
   <React.StrictMode>
     <App />
   </React.StrictMode>
-);</content>
-<parameter name="filePath">c:\Users\tksna\OneDrive\ドキュメント\04_Codex\06_HypothesisCanvas\frontend\src\index.js
+);

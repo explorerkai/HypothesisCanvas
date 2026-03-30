@@ -320,5 +320,4 @@ function Canvas({ canvas, userName, onBack }) {
   );
 }
 
-export default Canvas;</content>
-<parameter name="filePath">c:\Users\tksna\OneDrive\ドキュメント\04_Codex\06_HypothesisCanvas\frontend\src\components\Canvas.js
+export default Canvas;

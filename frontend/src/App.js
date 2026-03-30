@@ -157,5 +157,4 @@ function App() {
   );
 }
 
-export default App;</content>
-<parameter name="filePath">c:\Users\tksna\OneDrive\ドキュメント\04_Codex\06_HypothesisCanvas\frontend\src\App.js
+export default App;
