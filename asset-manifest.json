@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/HypothesisCanvas/static/css/main.995edd39.css",
+    "main.js": "/HypothesisCanvas/static/js/main.ba88f3b7.js",
+    "static/js/239.9bc8107c.chunk.js": "/HypothesisCanvas/static/js/239.9bc8107c.chunk.js",
+    "static/js/213.e81c1bc7.chunk.js": "/HypothesisCanvas/static/js/213.e81c1bc7.chunk.js",
+    "static/js/455.aeca6069.chunk.js": "/HypothesisCanvas/static/js/455.aeca6069.chunk.js",
+    "index.html": "/HypothesisCanvas/index.html",
+    "main.995edd39.css.map": "/HypothesisCanvas/static/css/main.995edd39.css.map",
+    "main.ba88f3b7.js.map": "/HypothesisCanvas/static/js/main.ba88f3b7.js.map",
+    "239.9bc8107c.chunk.js.map": "/HypothesisCanvas/static/js/239.9bc8107c.chunk.js.map",
+    "213.e81c1bc7.chunk.js.map": "/HypothesisCanvas/static/js/213.e81c1bc7.chunk.js.map",
+    "455.aeca6069.chunk.js.map": "/HypothesisCanvas/static/js/455.aeca6069.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.995edd39.css",
+    "static/js/main.ba88f3b7.js"
+  ]
+}
